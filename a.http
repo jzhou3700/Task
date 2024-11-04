@@ -1,0 +1,21 @@
+
+###
+GET http://localhost:8080/joinRoom?userId=1&roomId=1
+Accept: application/json
+
+###
+GET http://localhost:8080/joinRoom?userId=2&roomId=1
+Accept: application/json
+
+###
+GET http://localhost:8080/joinRoom?userId=3&roomId=1
+Accept: application/json
+
+###
+
+GET http://localhost:8080/leaveRoom?userId=1&roomId=1
+Accept: application/json
+
+
+
+###
